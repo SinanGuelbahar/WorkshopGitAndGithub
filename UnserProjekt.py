@@ -1,2 +1,5 @@
 print("Dies ist die Versin 1.0.0 unseres Projektes")
 print("Hallo World")
+print("Hallo Fritz")
+print("Hallo Django")
+print("Hallo Flenders")
